@@ -1,0 +1,31 @@
+{
+  "Mac" : [
+    {
+      "name" : "WikipediaKit",
+      "hash" : "518841fe76942a0611a5a22021073b26e9b0ef541e17873f3160b462af4a03d5",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.6 clang-1100.0.32.1)"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "WikipediaKit",
+      "hash" : "efd5e9e166725f590011c2ee14100f8600b64bdd61438ac9641dd7b30e72e374",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.6 clang-1100.0.32.1)"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "WikipediaKit",
+      "hash" : "a6060d173a7d147279cce1cea10aa1e01564c322a9ab8d7ffa7d0ffd2affa316",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.6 clang-1100.0.32.1)"
+    }
+  ],
+  "commitish" : "8501771574f2ec91d19cc7a46777e6686648b37b",
+  "iOS" : [
+    {
+      "name" : "WikipediaKit",
+      "hash" : "3584717c5f68d33c1cae4045a358cdc5588d249627c5a061504df65981e9dfcb",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.6 clang-1100.0.32.1)"
+    }
+  ]
+}
