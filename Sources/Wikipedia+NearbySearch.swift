@@ -35,6 +35,7 @@ extension Wikipedia {
                                      latitude: Double,
                                      longitude: Double,
                                      maxCount: Int = 10,
+                                     maxSearchCount: Int = 50,
                                      // 10_000 meters is the API max limit:
                                      maxRadiusInMeters: Double = 10_000,
                                      imageWidth: Int = 200,
@@ -60,6 +61,7 @@ extension Wikipedia {
                 "colimit": "50",
                 "pithumbsize": "\(imageWidth)",
                 "pilimit": "50",
+                "gslimit": "\(maxSearchCount)",
                 "wbptterms": "description",
                 "continue": "",
                 "maxage": "\(self.maxAgeInSeconds)",
